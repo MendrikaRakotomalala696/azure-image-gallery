@@ -1,0 +1,9 @@
+# Azure Functions pour Python
+azure-functions
+azure-storage-blob
+
+# Traitement d'images
+Pillow>=10.0.0
+
+# Utilitaires
+python-dateutil
